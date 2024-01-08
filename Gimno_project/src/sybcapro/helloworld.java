@@ -7,5 +7,9 @@ public class helloworld {
 
 		System.out.println(" HELLO WORLD ");
 	}
+	void display()
+	{
+		System.out.println(" Branch commit ");
+	}
 
 }
