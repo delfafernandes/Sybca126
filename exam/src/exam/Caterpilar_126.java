@@ -9,6 +9,18 @@ public class Caterpilar_126 {
 		this.moves=moves;
 		this.cabbage=cabbage;
 	}
-	
+	int moves()
+	{
+		return moves;
+	}
+	int get_moves()
+	{
+		return moves++;
+	}
+	int eat()
+	{
+		return cabbage;
+	}
+
 
 }
