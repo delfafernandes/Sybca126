@@ -13,14 +13,7 @@ public class Caterpilar_126 {
 	{
 		return moves;
 	}
-	int get_moves()
-	{
-		return moves++;
-	}
-	int eat()
-	{
-		return cabbage;
-	}
+	
 
 
 }
